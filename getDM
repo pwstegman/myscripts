@@ -1,0 +1,3 @@
+#!/bin/bash
+#Author: Pierce Stegman
+cat /etc/X11/default-display-manager
